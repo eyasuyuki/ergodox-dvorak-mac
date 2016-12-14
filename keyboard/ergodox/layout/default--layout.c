@@ -82,7 +82,7 @@ KB_MATRIX_LAYER(
 	KEY_DownArrow,	KEY_UpArrow,	KEY_LeftBracket_LeftBrace,	KEY_RightBracket_RightBrace,	KEY_Backslash_Pipe,	
 	1,	KEY_CapsLock,	
 	KEY_PageUp,	0,	0,	
-	KEY_PageDown,	KEY_RightGUI,	KEY_ReturnEnter	
+	KEY_PageDown,	KEY_RightAlt,	KEY_ReturnEnter	
 ),
 // LAYER 1
 KB_MATRIX_LAYER(
@@ -105,7 +105,7 @@ KB_MATRIX_LAYER(
 	KEYPAD_0_Insert,	KEYPAD_00,	KEYPAD_Period_Delete,	KEY_Equal_Plus,	KEY_Backslash_Pipe,	
 	1,	KEY_CapsLock,	
 	KEY_PageUp,	0,	0,	
-	KEY_PageDown,	KEY_RightGUI,	KEY_ReturnEnter	
+	KEY_PageDown,	KEY_RightAlt,	KEY_ReturnEnter	
 ),
 // LAYER 2
 KB_MATRIX_LAYER(
