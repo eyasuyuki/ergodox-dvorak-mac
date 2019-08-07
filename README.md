@@ -5,7 +5,7 @@ Ergodox Dvorak for Mac
 
 ```
 brew tap osx-cross/avr
-brew install avr-libc
+brew install avr-gcc
 ```
 
 ## Build .hex file
