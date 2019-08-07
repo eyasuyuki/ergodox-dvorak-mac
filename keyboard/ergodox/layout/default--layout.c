@@ -70,7 +70,7 @@ KB_MATRIX_LAYER(
 	KEY_Tab,	KEY_SingleQuote_DoubleQuote,	KEY_Comma_LessThan,	KEY_Period_GreaterThan,	KEY_p_P,	KEY_y_Y,	KEY_DeleteBackspace,	
 	KEY_LeftControl,	KEY_a_A,	KEY_o_O,	KEY_e_E,	KEY_u_U,	KEY_i_I,	
 	KEY_LeftShift,	KEY_Semicolon_Colon,	KEY_q_Q,	KEY_j_J,	KEY_k_K,	KEY_x_X,	KEY_ReturnEnter,	
-	KEY_Cut,	KEY_Copy,	KEY_Paste,	KEY_LeftArrow,	KEY_RightArrow,	
+	KEY_Escape,	KEY_Slash_Question,	KEY_Equal_Plus,	KEY_LeftArrow,	KEY_RightArrow,	
 	KEY_LeftAlt,	1,	
 	0,	0,	KEY_Home,	
 	KEY_Spacebar,	KEY_LeftGUI,	KEY_End,	
